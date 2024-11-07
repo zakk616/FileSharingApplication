@@ -18,7 +18,7 @@ A simple file-sharing application developed in C# using .NET sockets. This solut
 
 .NET Framework 4.0
 
-Visual Studio 2019.
+Visual Studio 2019 (Run as administrator)
 
 ## Running the Application
 
